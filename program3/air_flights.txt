@@ -1,0 +1,6 @@
+Dortmund;Amsterdam;2;15
+Amsterdam;Paris;3;19
+Liverpool;Kazan;5;N/A
+Kazan;Milan;2;9
+Dortmund;Milan;7;N/A
+Paris;Liverpool;1;5

@@ -1,0 +1,3 @@
+Yerevan;Ufa;2;10
+Moscow;Ufa;4;2
+Yerevan;Moscow;5;9

@@ -1,0 +1,24 @@
+﻿  UnitTest_lab3.cpp
+D:\Программирование\4 сем\lab3\program3\Bellman-Ford.cpp(154,25): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Программирование\4 сем\lab3\program3\Bellman-Ford.cpp(158,25): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Программирование\4 сем\lab3\UnitTest_lab3\UnitTest_lab3.cpp(56,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Программирование\4 сем\lab3\UnitTest_lab3\UnitTest_lab3.cpp(108,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Программирование\4 сем\lab3\UnitTest_lab3\UnitTest_lab3.cpp(112,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Программирование\4 сем\lab3\UnitTest_lab3\UnitTest_lab3.cpp(165,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Программирование\4 сем\lab3\UnitTest_lab3\UnitTest_lab3.cpp(169,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Программирование\4 сем\lab3\program3\List.inl(120,12): warning C4018: >=: несоответствие типов со знаком и без знака
+D:\Программирование\4 сем\lab3\program3\List.inl(119): message : во время компиляции функции-члена класс шаблон "data_T List<data_T>::at(const int)"
+          with
+          [
+              data_T=std::string
+          ]
+D:\Программирование\4 сем\lab3\program3\Bellman-Ford.cpp(150): message : выполняется компиляция ссылки на экземпляр шаблон функции "data_T List<data_T>::at(const int)"
+          with
+          [
+              data_T=std::string
+          ]
+D:\Программирование\4 сем\lab3\program3\Bellman-Ford.cpp(25): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "List<std::string>"
+D:\Программирование\4 сем\lab3\program3\List.inl(131): warning C4715: List<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::at: значение возвращается не при всех путях выполнения
+D:\Программирование\4 сем\lab3\program3\List.inl(131): warning C4715: List<int>::at: значение возвращается не при всех путях выполнения
+     Создается библиотека D:\Программирование\4 сем\lab3\program3\Debug\UnitTest_lab3.lib и объект D:\Программирование\4 сем\lab3\program3\Debug\UnitTest_lab3.exp
+  UnitTest_lab3.vcxproj -> D:\Программирование\4 сем\lab3\program3\Debug\UnitTest_lab3.dll
